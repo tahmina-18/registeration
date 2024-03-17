@@ -1,0 +1,18 @@
+{
+  "name": "registration_form",
+  "version": "1.0.0",
+  "description": "PROJECT\r COULD NOT IMPORT NODE MODULES DUE TO LARGE SIZE\r COMMANDS TO INSTALL requirements\r npm init -y\r npm i body-parser mongoose express nodemon\r to run the application\r nodemon index.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.3",
+    "mongoose": "^8.2.2",
+    "nodemon": "^3.1.0"
+  },
+  "keywords": []
+}
